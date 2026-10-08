@@ -1,0 +1,9 @@
+{
+  "matches": [
+    {"date":"2026-10-10","displayDate":"10-10-2026","tournament":"Keglebillard - Søgaard Ligaen","number":"228207","home":"BK Gilleleje","homeTeam":"1","away":"Asaa BK","awayTeam":"1"},
+    {"date":"2026-10-11","displayDate":"11-10-2026","tournament":"Keglebillard - Søgaard Ligaen","number":"228213","home":"BK Gilleleje","homeTeam":"1","away":"BK Frem","awayTeam":"1"},
+    {"date":"2026-10-18","displayDate":"18-10-2026","tournament":"Keglebillard - 3. Division Øst","number":"238425","home":"BK Gilleleje","homeTeam":"1","away":"Værløse BK","awayTeam":"1"},
+    {"date":"2026-10-24","displayDate":"24-10-2026","tournament":"Keglebillard - Søgaard Ligaen","number":"228215","home":"BK Gilleleje","homeTeam":"1","away":"Søborg","awayTeam":"1"}
+  ],
+  "stale": false
+}
